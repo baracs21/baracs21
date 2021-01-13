@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a complete serverless tool to manage your daily lunch planning for your family on aws
+- 🔭 I’m currently working on a complete serverless application on aws to manage your daily lunch planning for your family
 - 🌱 I’m currently learning go, typescript and aws cdk
 - 💬 Ask me about spring, testing and distributed architectures 
 
