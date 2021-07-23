@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a complete serverless application on aws to manage your daily lunch planning for your family
-- 🌱 I’m currently learning go, typescript and aws cdk
+- 🔭 I’m currently working on a complete serverless application to make your daily life easier
+- 🌱 I’m currently learning go, typescript and aws
 - 💬 Ask me about spring, testing and distributed architectures 
 
 <!--
