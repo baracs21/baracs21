@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a complete serverless application to make your daily life easier
-- 🌱 I’m currently learning go, typescript and aws
+- 🌱 I’m currently learning go, typescript, aws and yes azure, too :)
 - 💬 Ask me about spring, testing and distributed architectures 
 
 <!--
