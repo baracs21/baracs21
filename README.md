@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a complete serverless application on AWS to make your daily life easier
+[//]: # (- 🔭 I’m currently working on a complete serverless application on AWS to make your daily life easier)
 - 🌱 I’m currently learning go, typescript, aws and many other things ;)
-- 💬 Ask me about cloud applications, AWS, ci/cd, spring, testing and distributed architectures
+- 💬 Ask me about cloud applications, AWS, CI/CD, Spring, Testing, Golang and distributed systems
 - 📫 How to reach me: Add me here ;)
 
 <!--
