@@ -2,7 +2,7 @@
 
 [![header!](assets/header.png)](https://github.com/baracs21)
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://https://www.linkedin.com/in/simon-beddig-96a493231/) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/simon-beddig-96a493231/) &nbsp;
 
 </div>
 
