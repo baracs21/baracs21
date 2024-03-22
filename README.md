@@ -18,7 +18,7 @@
 
 ## 💻 My Tech Stack:
 
-[![TypeScript, AWS, JAVA, spring, gradle, go, docker, Linux, bash, git,kafka](https://skillicons.dev/icons?i=ts,aws,java,spring,gradle,go,docker,linux,bash,git,kafka)](https://skillicons.dev)
+[![TypeScript, AWS, Azure, Kubernetes, JAVA, spring, gradle, go, docker, Linux, bash, git,kafka](https://skillicons.dev/icons?i=ts,aws,azure,kubernetes,java,spring,gradle,go,docker,linux,bash,git,kafka)](https://skillicons.dev)
 
 ## 🛠️ My Tools:
 [![idea,vscode,githubactions,github](https://skillicons.dev/icons?i=idea,vscode,githubactions,github)](https://skillicons.dev)
