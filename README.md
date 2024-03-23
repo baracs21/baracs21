@@ -1,13 +1,22 @@
 <div align="center">
 
+## I'm a Tech Lead at the VW Software Development Center ##
+
+</div>
+
 [![header!](assets/header.png)](https://github.com/baracs21)
+
+I began my professional journey in 2014 at Volkswagen Financial Services, where I immersed myself in the dynamic world of automotive finance. Transitioning to Volkswagen Group in late 2018 as a Senior Software Engineer marked a pivotal moment, propelling me into the heart of automotive innovation. Presently, as a Technical Lead at the VW Software Development Center, I thrive on steering cutting-edge projects and shaping the future of modern cloud-based software solutions.
+
+<div align="center">
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/simon-beddig-96a493231/) &nbsp;
 
 </div>
 
 - 🔭 I'm committed to continuous learning, embracing new knowledge and skills to stay intellectually agile and informed.
-- 💬 Ask me anything about Cloud Applications, Software Architectures, AWS, CI/CD, Spring, Testing, Golang and Distributed Systems
+- 💬 Ask me anything about Cloud Applications, Software Architectures, AWS, CI/CD, Spring, Testing, Golang and Distributed Systems.
+- 👨‍🎓 Currently I  learn Azure, Kubernetes and many other new cool stuff.
 - 📫 How to reach me: Add me here ;)
 
 <div align="center">
